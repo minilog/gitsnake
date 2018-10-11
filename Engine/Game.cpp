@@ -30,7 +30,7 @@ Game::Game(MainWindow& wnd)
 	rng(std::random_device()()),
 	snek({ 2 , 2 }),
 	goal(rng, brd, snek, bricks)
-{
+{	//sdfasdfqed qweojwosdjmo
 }
 
 void Game::Go()
